@@ -24,9 +24,9 @@ Before diving into software development, my journey began at Tshwane University 
 - [SLApp](https://sdf07-slapp.netlify.app/): SLApp, short for Shopping List Application, created to help users effortlessly create and manage their shopping lists, ensuring trips to the store are efficient and stress-free.
 
 ## Connect With Me
-
+📞 WhatsApp: +27 81 899 4791
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-red)](https://github.com/dinalediseko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-red)](https://www.linkedin.com/in/dinalediseko)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-red)](https://instagram.com/dseikou)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-red)](https://instagram.com/dseikou_)
 
 
