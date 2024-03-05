@@ -27,6 +27,6 @@ Before diving into software development, my journey began at Tshwane University 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-red)](https://github.com/dinalediseko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-red)](https://www.linkedin.com/in/dinalediseko)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-red)](https://twitter.com/dseikou)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-red)](https://instagram.com/dseikou)
 
 
